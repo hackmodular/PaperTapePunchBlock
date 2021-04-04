@@ -1,6 +1,6 @@
 # Paper Tape Punch Block
 
-An ITA-2 punch/splice block for 11/16 inch paper tape. A cheap way to edit or create punched tape.
+An ITA-2 punch/splice block. A cheap way to edit or create 11/16 inch punched tape.
 
 ![169156014_500041367815246_2531241903990742328_n](https://user-images.githubusercontent.com/81906382/113507359-daba7e00-9541-11eb-8aa2-6f469688ef64.jpg)
 ![168331057_879128766268830_2135644683854491897_n](https://user-images.githubusercontent.com/81906382/113507391-03db0e80-9542-11eb-890c-087325fb50e0.jpg)
