@@ -31,3 +31,5 @@ The splice guide takes into account a blade width of 0.5mm. So if you are cuttin
 
 Store the punches in a secure place to protect them from blunting or accidental injury. One technique for periodic sharpening, commonly used for ordinary hole punches, is to repeatedly punch through tin foil.
 
+License:
+CC-BY-SA
