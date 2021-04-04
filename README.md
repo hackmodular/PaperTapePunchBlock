@@ -18,7 +18,7 @@ I got better results with the narrowest tape gaps. 0.2mm shim washers work best,
 
 Refer to the exploded view diagram to see how everything fits together. It's much easier to seat the push fit dowel pins first. I apply a little permanent threadlocker, locate them with thin nosed pliers, then tap them in with a hammer on a metal surface being careful not to damage the underside of the board. Once everything is loosely assembled insert a tape and nudge the shim washers in snug to it before tightening to reduce any wiggle in the tape path.
 
-Cutting sharp punching faces in the HSS rods is the most challenging task. I made a grinding rig with my dremel and a carbide burr in the absence of more sophisticated equiptment. I used the pin vise as a collet with minimum stickout for rigidity. I then hardened the tips by tempering with a blowtorch. First heat to a cherry red, quench, then heat the cutting tip again until it turns blueish. See photos in collateral folder. 
+Cutting sharp punching faces in the HSS rods is the most challenging task. I made a grinding rig with my dremel and a carbide burr, in the absence of more sophisticated equiptment. I used the pin vise as a collet with minimum stickout for rigidity. I then hardened the tips by tempering with a blowtorch. First heat to a cherry red, quench, then heat the cutting tip again until it turns blueish. See photos in collateral folder. 
 
 
 # Using the Punch Block
