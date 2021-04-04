@@ -18,6 +18,8 @@ I got better results with the narrowest tape gaps. 0.2mm shim washers work best,
 
 Refer to the exploded view diagram to see how everything fits together. It's much easier to seat the push fit dowel pins first. I apply a little permanent threadlocker, locate them with thin nosed pliers, then tap them in with a hammer on a metal surface being careful not to damage the underside of the board. Once everything is loosely assembled insert a tape and nudge the shim washers in snug to it before tightening to reduce any wiggle in the tape path.
 
+Cutting sharp punching faces in the HSS rods is the most challenging task. I made a grinding rig with my dremel and a carbide burr in the absence of more sophisticated equiptment. I used the pin vise as a collet with minimum stickout for rigidity. I then hardened the tips by tempering with a blowtorch. First heat to a cherry red, quench, then heat the cutting tip again until it turns blueish. See photos in collateral folder. 
+
 
 # Using the Punch Block
 
@@ -26,4 +28,6 @@ For a new tape, punch 5 feed holes then move the tape through and hook the first
 I prefer to hold the block in my hand while punching - it's easier to locate the holes. Squarely seat the punch in each hole first then sharply and mechanically plunge it down to cut the paper. With sharp punches it's very reliable, but if you check all the chad has seperated before advancing the tape it will be easier to re-punch and clear it then. If you have the block sitting on a desk while punching, adjust the depth of the rods in the pin vise so that the tip will not hit the surface and dull the cutting edge. 
 
 The splice guide takes into account a blade width of 0.5mm. So if you are cutting straight you should be between the holes. The reverse side of the block is for joining tapes. For optical reading sellotape works fine. And it's avaliable at 11/16 inch wide.
+
+Store the punches in a secure place to protect them from blunting or accidental injury. One technique for periodic sharpening, commonly used for ordinary hole punches, is to repeatedly punch through tin foil.
 
