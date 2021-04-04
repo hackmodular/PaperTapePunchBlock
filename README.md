@@ -23,7 +23,7 @@ Cutting sharp punching faces in the HSS rods is the most challenging task. I mad
 
 # Using the Punch Block
 
-For a new tape, punch 5 feed holes then move the tape through and hook the first onto the protruding dowel pin to secure the tape in place. Advancing the tape in this way 5 holes at a time will line up the next section of blank tape. There are 5 punching rows because this is the traditional way teletype code is written out in blocks.
+For a new tape, punch 5 feed holes then move the tape through and hook the first onto the protruding dowel pin to secure the tape in place. Advancing the tape in this way 5 holes at a time will line up the next section of blank tape. There are 5 punching rows because this is the traditional way teletype code was transcribed in blocks.
 
 I prefer to hold the block in my hand while punching - it's easier to locate the holes. Squarely seat the punch in each hole first then sharply and mechanically plunge it down to cut the paper. With sharp punches it's very reliable, but if you check all the chad has seperated before advancing the tape it will be easier to re-punch and clear it then. If you have the block sitting on a desk while punching, adjust the depth of the rods in the pin vise so that the tip will not hit the surface and dull the cutting edge. 
 
