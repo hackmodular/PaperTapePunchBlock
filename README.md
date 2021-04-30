@@ -1,6 +1,6 @@
 # Paper Tape Punch Block
 
-An ITA-2 punch/splice block. A cheap way to edit or create 11/16 inch punched tape.
+An ITA-2 punch/splice block. A cheap way to edit or create 5 hole 11/16 inch punched tape.
 
 ![169156014_500041367815246_2531241903990742328_n](https://user-images.githubusercontent.com/81906382/113507359-daba7e00-9541-11eb-8aa2-6f469688ef64.jpg)
 ![168331057_879128766268830_2135644683854491897_n](https://user-images.githubusercontent.com/81906382/113507391-03db0e80-9542-11eb-890c-087325fb50e0.jpg)
@@ -16,9 +16,9 @@ I got better results with the narrowest tape gaps. 0.2mm shim washers work best,
 
 # Constructing the Punch Block
 
-Refer to the exploded view diagram to see how everything fits together. It's much easier to seat the push fit dowel pins first. I apply a little permanent threadlocker, locate them with thin nosed pliers, then tap them in with a hammer on a metal surface being careful not to damage the underside of the board. Once everything is loosely assembled insert a tape and nudge the shim washers in snug to it before tightening to reduce any wiggle in the tape path.
+Refer to the exploded view diagram to see how everything fits together. https://drive.google.com/file/d/1OGpzzt2adtyyuyVxWkU90mt6o2SmFRrE/view?usp=sharing It's much easier to seat the push fit dowel pins first. I apply a little permanent threadlocker, locate them with thin nosed pliers, then tap them in with a hammer on a metal surface being careful not to damage the underside of the board. https://www.instagram.com/p/COShKEvBEmE/?utm_source=ig_web_copy_link Once everything is loosely assembled insert a tape and nudge the shim washers in snug to it before tightening to reduce any wiggle in the tape path.
 
-Cutting sharp punching faces in the HSS rods is the most challenging task. I made a grinding rig with my dremel and a carbide burr, in the absence of more sophisticated equiptment. I used the pin vise as a collet with minimum stickout for rigidity. I then hardened the tips by tempering with a blowtorch. First heat to a cherry red, quench, then heat the cutting tip again until it turns blueish. See photos in collateral folder. 
+Cutting sharp punching faces in the HSS rods is the most challenging task. I made a grinding rig with my dremel and a carbide burr, in the absence of more sophisticated equiptment. I used the pin vise as a collet with minimum stickout for rigidity. I then hardened the tips with a blowtorch. First heat to a cherry red, quench, then gently heat the cutting tip again until it turns blueish to temper. https://www.instagram.com/p/COQ_r14B9EP/?utm_source=ig_web_copy_link
 
 
 # Using the Punch Block
