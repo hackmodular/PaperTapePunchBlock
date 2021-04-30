@@ -11,7 +11,7 @@ Original 11/16 inch tape data holes were 0.072 inches (1.83 mm) in diameter, fee
 
 Feed hole dowel pins are 1mm diameter. Ideally the shorter dowel pins need to be 3.6mm in length. I found that pins listed on eBay as 4mm were in fact perfectly 3.6mm. https://www.ebay.co.uk/itm/383083838914
 
-I got better results with the narrowest tape gaps. 0.2mm shim washers work best, but 0.3 will allow joined tapes.
+I got better results with the narrowest tape gaps. Shim washers are 3mm inner diameter 6mm OD. 0.2mm thick shim washers work best, but 0.3 will allow joined tapes.
 
 
 # Constructing the Punch Block
